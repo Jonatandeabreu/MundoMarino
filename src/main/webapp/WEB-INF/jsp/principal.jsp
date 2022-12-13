@@ -20,7 +20,6 @@
         <header>
             <h1>Mundo Marino</h1>
         </header>
-        <img class="img-thumbnail" src="../img/img-int_t-13.jpg"/>
         <h4>Mundo Marino es el oceanario más grande de la Argentina. Está ubicado en la ciudad de San Clemente del Tuyú, Partido de La Costa, Provincia de Buenos Aires, Argentina. Tiene 40 ha de parque para recorrer con distintas atracciones y presentaciones educativas.</h4>
         
 
